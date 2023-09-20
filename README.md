@@ -1,1 +1,1 @@
-# descodificadas-trilha-2
+# Projetos da trilha 2 do descodificadas.
