@@ -1,0 +1,91 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+.tabela-periodica{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.celula{
+    width: 75px;
+    border: solid 1px #cecccc;
+    border-radius: 8px;
+    margin: 1px;
+    padding: 1px;
+}
+
+.nao-metais{
+    background-color: #5B95C6;
+}
+
+.metais-alcalinos{
+    background-color: #44B87A;
+}
+
+.gases-nobres{
+    background-color: #F59690;
+}
+
+.metais-alcalinos-terrosos{
+    background-color: #97C04C;
+}
+
+.metais-de-transicao{
+    background-color: #F9AA57;
+}
+
+.semi-metais{
+    background-color: #F6B1D2;
+}
+
+.outros-metais{
+    background-color: #D990BF;
+}
+
+.halogenios{
+    background-color: #02B0F2;
+}
+
+.lantanideos{
+    background-color: #FEC82B;
+}
+
+.actinideos{
+    background-color: #CD9063;
+}
+
+.numero-atomico{
+    font-size: 12px;
+}
+
+.simbolo-quimico{
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.nome{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.peso-atomico{
+    font-size: 12px;
+    font-weight: 400;
+
+}
+
+.linha-vazia{
+    height: 60px;
+}
